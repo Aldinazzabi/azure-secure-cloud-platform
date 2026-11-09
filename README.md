@@ -23,14 +23,7 @@ Infrastructure provisioning is managed using \*\*Terraform\*\*, with the planned
 
 
 \## Architecture
-!\[Azure Cloud Architecture](architecture/Architecture.png)
-
-
-
-The architecture is organized around an Azure Virtual Network with three dedicated subnets.
-
-
-
+![Azure Cloud Architecture](architecture/Architecture.png)
 \### Network architecture
 
 
