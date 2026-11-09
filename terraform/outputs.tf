@@ -16,3 +16,7 @@ output "postgres_server_fqdn" {
   description = "Private PostgreSQL server hostname"
   value       = azurerm_postgresql_flexible_server.main.fqdn
 }
+output "acr_login_server" {
+  description = "The URL of the Azure Container Registry"
+  value       = azurerm_container_registry.acr.login_server
+}
