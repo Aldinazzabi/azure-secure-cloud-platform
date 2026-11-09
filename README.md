@@ -157,7 +157,7 @@ The intended workflow is:
 
 
 \## Containerization and CI/CD
-![GitHub Actions](screenshots/github-actions-success.png)
+![Github Actions](screenshots/github-actions-success.png.png)
 
 
 
